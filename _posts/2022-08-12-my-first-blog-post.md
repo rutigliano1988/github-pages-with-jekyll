@@ -1,6 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2022-08.12
+
+title: "Hello this is my first post title"
+date: 2022-08-12
+
 ---
 
 # Welcome
